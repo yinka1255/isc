@@ -81,7 +81,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index.html" class="img-responsive"><img src="images/logo-small.png" class="header-logo" alt="" title=""></a>
+                    <a href="index.html" class="img-responsive"><img src="images/logo.png" class="header-logo" alt="" title=""></a>
                 </div>
                 
                 <!--Right Col-->
@@ -719,7 +719,7 @@
                     <!--Footer Column-->
                     <div class="footer-column col-lg-3 col-md-4 col-sm-6 col-xs-12">
                         <div class="footer-widget contact-widget">
-                            <div class="footer-logo"><a href="index.html"><img src="images/logo-3.png" alt=""></a></div>
+                            <div class="footer-logo"><a href="index.html"><img src="images/logo.png" class="header-logo" alt=""></a></div>
                             <div class="widget-content">
                                 <div class="text">Imperial Service is a market leader in providing global luxury concierge, professional network and unique lifestyle management services.</div>
                                 <ul class="contact-info">
