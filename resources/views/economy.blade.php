@@ -385,6 +385,7 @@
                         var phone = $("#inputPhone").val();
                         var amount = $("#inputAmount").val();
                         var membership = $("#inputMembership").val();
+                        var address = $("#inputAddress").val();
         
                         if(amount.length < 1){
                             getError("Kindly select an amount you'd like to donate");

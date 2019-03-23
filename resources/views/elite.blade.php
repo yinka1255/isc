@@ -384,12 +384,13 @@
                         var phone = $("#inputPhone").val();
                         var amount = $("#inputAmount").val();
                         var membership = $("#inputMembership").val();
+                        var address = $("#inputAddress").val();
         
                         if(amount.length < 1){
                             getError("Kindly select an amount you'd like to donate");
                             return;
                         }
-                        if(phone.length < 1 || name.length < 1){
+                        if(phone.length < 1 || name.length < 1 || email.length < 1){
                             getError("Kindly note that all fields are mandatory. These information are needed to generate your e-receipt");
                             return;
                         }
