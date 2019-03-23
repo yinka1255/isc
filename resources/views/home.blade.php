@@ -719,7 +719,7 @@
                     <!--Footer Column-->
                     <div class="footer-column col-lg-5 col-md-5 col-sm-6 col-xs-12">
                         <div class="footer-widget contact-widget">
-                            <div class="footer-logo"><a href="index.html"><img src="images/logo.png" class="header-logo" alt=""></a></div>
+                            <div class="footer-logo"><a href="index.html"><img src="{{asset('images/logo.png')}}" class="header-logo" alt=""></a></div>
                             <div class="widget-content">
                                 <div class="text">Imperial Service is a market leader in providing global luxury concierge, professional network and unique lifestyle management services.</div>
                                 <ul class="contact-info">

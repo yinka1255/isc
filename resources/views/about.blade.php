@@ -35,7 +35,7 @@
                     <div class="outer-container clearfix">
                         <!--Logo Box-->
                         <div class="logo-box">
-                            <div class="logo"><a href="index.html"><img src="images/logo.png" class="header-logo" alt=""></a></div>
+                            <div class="logo"><a href="index.html"><img src="{{asset('images/logo.png')}}" class="header-logo" alt=""></a></div>
                         </div>
                         
                         <!--Nav Outer-->
@@ -115,7 +115,7 @@
     </header>
     <!--End Main Header -->
     
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url({{asset('images/background/5.jpg')}}">
     	<div class="auto-container">
         	<div class="inner-box">
                 <h1>about us</h1>
@@ -346,7 +346,7 @@
                     <!--Footer Column-->
                     <div class="footer-column col-lg-5 col-md-5 col-sm-6 col-xs-12">
                         <div class="footer-widget contact-widget">
-                            <div class="footer-logo"><a href="index.html"><img src="images/logo.png" class="header-logo" alt=""></a></div>
+                            <div class="footer-logo"><a href="index.html"><img src="{{asset('images/logo.png')}}" class="header-logo" alt=""></a></div>
                             <div class="widget-content">
                                 <div class="text">Imperial Service is a market leader in providing global luxury concierge, professional network and unique lifestyle management services.</div>
                                 <ul class="contact-info">
