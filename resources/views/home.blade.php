@@ -759,28 +759,28 @@
                             <!--footer sponsors slider-->
                             <div class="footer-sponsors-slider owl-carousel owl-theme">
                             	<div class="slide">
-                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-1.png')}}" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/{{asset('public/images/sponsors/footer-sponsor-1.png')}}')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-2.png')}}" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/{{asset('public/images/sponsors/footer-sponsor-2.png')}}')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-3.png')}}" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/{{asset('public/images/sponsors/footer-sponsor-3.png')}}')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-4.png')}}" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/{{asset('public/images/sponsors/footer-sponsor-4.png')}}')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-1.png')}}" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/{{asset('public/images/sponsors/footer-sponsor-1.png')}}')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-2.png')}}" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/{{asset('public/images/sponsors/footer-sponsor-2.png')}}')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-3.png')}}" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/{{asset('public/images/sponsors/footer-sponsor-3.png')}}')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-4.png')}}" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/{{asset('public/images/sponsors/footer-sponsor-4.png')}}')}}" alt="" /></a>
                                 </div>
                             </div>
                             

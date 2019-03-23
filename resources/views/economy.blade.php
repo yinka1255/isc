@@ -81,7 +81,7 @@
                     <div class="outer-container clearfix">
                         <!--Logo Box-->
                         <div class="logo-box">
-                            <div class="logo"><a href="index.html"><img src="images/logo.png" class="header-logo" alt=""></a></div>
+                            <div class="logo"><a href="index.html"><img src="{{asset('public/images/logo.png')}}" class="header-logo" alt=""></a></div>
                         </div>
                         
                         <!--Nav Outer-->
@@ -124,7 +124,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index.html" class="img-responsive"><img src="images/logo-small.png" class="header-logo" alt="" title=""></a>
+                    <a href="index.html" class="img-responsive"><img src="{{asset('public/images/logo.png')}}" class="header-logo" alt="" title=""></a>
                 </div>
                 
                 <!--Right Col-->
@@ -228,7 +228,7 @@
     <!--End Contact Section-->
     
     <!--Subscribe Style One-->
-    <section class="subscribe-style-one" style="background-image:url(images/background/patten-1.png);">
+    <section class="subscribe-style-one" style="background-image:url({{asset('public/images/background/patten-1.png')}};">
     	<div class="auto-container">
             <div class="row clearfix">
                 <div class="column col-md-7 col-sm-6 col-xs-12">
@@ -257,7 +257,7 @@
                     <!--Footer Column-->
                     <div class="footer-column col-lg-3 col-md-4 col-sm-6 col-xs-12">
                         <div class="footer-widget contact-widget">
-                            <div class="footer-logo"><a href="index.html"><img src="images/logo-3.png" alt=""></a></div>
+                            <div class="footer-logo"><a href="index.html"><img  class="header-logo" src="{{asset('public/images/logo.png')}}" alt=""></a></div>
                             <div class="widget-content">
                                 <div class="text">Imperial Service is a market leader in providing global luxury concierge, professional network and unique lifestyle management services.</div>
                                 <ul class="contact-info">
@@ -297,28 +297,28 @@
                             <!--footer sponsors slider-->
                             <div class="footer-sponsors-slider owl-carousel owl-theme">
                             	<div class="slide">
-                                	<a href="#"><img src="images/sponsors/footer-sponsor-1.png" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-1.png')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="images/sponsors/footer-sponsor-2.png" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-2.png')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="images/sponsors/footer-sponsor-3.png" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-3.png')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="images/sponsors/footer-sponsor-4.png" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-4.png')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="images/sponsors/footer-sponsor-1.png" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-1.png')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="images/sponsors/footer-sponsor-2.png" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-2.png')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="images/sponsors/footer-sponsor-3.png" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-3.png')}}" alt="" /></a>
                                 </div>
                                 <div class="slide">
-                                	<a href="#"><img src="images/sponsors/footer-sponsor-4.png" alt="" /></a>
+                                	<a href="#"><img src="{{asset('public/images/sponsors/footer-sponsor-4.png')}}" alt="" /></a>
                                 </div>
                             </div>
                             
