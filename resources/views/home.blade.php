@@ -81,7 +81,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index.html" class="img-responsive"><img src="images/logo.png" class="header-logo" alt="" title=""></a>
+                    <a href="index.html" class="img-responsive"><img src="{{asset('public/images/logo.png')}}" class="header-logo" alt="" title=""></a>
                 </div>
                 
                 <!--Right Col-->
