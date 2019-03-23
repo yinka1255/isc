@@ -399,7 +399,7 @@
                             email: email,
                             amount: amount+"00",
                             ref: Date.now(),
-                            currency: "NGN",
+                            currency: "USD",
                             metadata: {
                                 custom_fields: [
                                 { display_name: "Name", variable_name: "name", value: name },
