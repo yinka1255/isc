@@ -26,7 +26,7 @@
 </head>
 
 <body>
-
+    <script src="https://js.paystack.co/v1/inline.js"></script>
 <div class="page-wrapper">
  	
     <!-- Preloader -->
