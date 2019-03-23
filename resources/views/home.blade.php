@@ -450,7 +450,7 @@
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
                             <div class="image">
-                                <img src="images/resource/featured-image-1.jpg" alt="" />
+                                <img src="{{asset('public/images/resource/featured-image-1.jpg')}}" alt="" />
                                 <div class="overlay-box">
                                     <a href="causes-single.html" class="search-btn"><span class="icon fa fa-link"></span></a>
                                 </div>
@@ -477,7 +477,7 @@
                 	<div class="inner-box wow fadeIn" data-wow-delay="500ms" data-wow-duration="1500ms">
                     	<div class="image-box">
                             <div class="image">
-                                <img src="images/resource/featured-image-2.jpg" alt="" />
+                                <img src="{{asset('public/images/resource/featured-image-2.jpg')}}" alt="" />
                                 <div class="overlay-box">
                                     <a href="causes-single.html" class="search-btn"><span class="icon fa fa-link"></span></a>
                                 </div>
@@ -504,7 +504,7 @@
                 	<div class="inner-box wow fadeIn" data-wow-delay="1000ms" data-wow-duration="1500ms">
                     	<div class="image-box">
                             <div class="image">
-                                <img src="images/resource/featured-image-3.jpg" alt="" />
+                                <img src="{{asset('public/images/resource/featured-image-3.jpg')}}" alt="" />
                                 <div class="overlay-box">
                                     <a href="causes-single.html" class="search-btn"><span class="icon fa fa-link"></span></a>
                                 </div>
@@ -579,7 +579,7 @@
                 <!--Default Portfolio Item-->
                 <div class="default-portfolio-item col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box">
-                        <figure class="image-box"><img src="images/gallery/2.jpg" alt=""></figure>
+                        <figure class="image-box"><img src="{{asset('public/images/gallery/2.jpg')}}" alt=""></figure>
                         <!--Overlay Box-->
                         <div class="overlay-box">
                             <div class="overlay-inner">
@@ -596,7 +596,7 @@
                 <!--Default Portfolio Item-->
                 <div class="default-portfolio-item col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box">
-                        <figure class="image-box"><img src="images/gallery/3.jpg" alt=""></figure>
+                        <figure class="image-box"><img src="{{asset('public/images/gallery/3.jpg')}}" alt=""></figure>
                         <!--Overlay Box-->
                         <div class="overlay-box">
                             <div class="overlay-inner">
@@ -613,7 +613,7 @@
                 <!--Default Portfolio Item-->
                 <div class="default-portfolio-item col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box">
-                        <figure class="image-box"><img src="images/gallery/4.jpg" alt=""></figure>
+                        <figure class="image-box"><img src="{{asset('public/images/gallery/4.jpg')}}" alt=""></figure>
                         <!--Overlay Box-->
                         <div class="overlay-box">
                             <div class="overlay-inner">
@@ -630,7 +630,7 @@
                 <!--Default Portfolio Item-->
                 <div class="default-portfolio-item col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box">
-                        <figure class="image-box"><img src="images/gallery/5.jpg" alt=""></figure>
+                        <figure class="image-box"><img src="{{asset('public/images/gallery/5.jpg')}}" alt=""></figure>
                         <!--Overlay Box-->
                         <div class="overlay-box">
                             <div class="overlay-inner">
