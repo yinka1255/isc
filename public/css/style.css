@@ -1635,7 +1635,7 @@ img{
 
 .latest-causes-section{
 	position:relative;
-	padding:110px 0px 70px;
+	padding:110px 0px 0px;
 }
 
 .sec-title.margin-bottom{
@@ -2091,7 +2091,7 @@ img{
 
 .gallery-section{
 	position:relative;
-	padding:110px 0px 130px;
+	padding:30px 0px 130px;
 }
 
 .default-portfolio-item{
