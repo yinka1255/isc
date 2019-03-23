@@ -147,7 +147,7 @@
                                 <!--<span class="icon flaticon-coin-1"></span>-->
                                 <img src="{{asset('public/images/services/network.jpg')}}" style="width:200px;height:200px;"/>
                             </div>
-                            <h3><a href="#">NETWORK</a></h3>
+                            <h3><a href="#">NETWORKING</a></h3>
                             <div class="text">Exhange opportunities with professionals from all works of life and leaders all around the globe  .... </div>
                             <a href="#" class="read-more">Read More <span class="icon fa fa-angle-right"></span></a>
                         </div>
