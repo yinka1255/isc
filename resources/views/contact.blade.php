@@ -221,7 +221,7 @@
 
 
 	<!--Subscribe Style One-->
-    <section class="subscribe-style-one" style="background-image:url({{asset('public/images/background/patten-1.png')}};">
+    <section class="subscribe-style-one" style="background-image:url({{asset('public/images/background/patten-1.png')}}">
     	<div class="auto-container">
             <div class="row clearfix">
                 <div class="column col-md-7 col-sm-6 col-xs-12">

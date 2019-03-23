@@ -78,7 +78,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index.html" class="img-responsive"><img src="images/logo-small.png" class="header-logo" alt="" title=""></a>
+                    <a href="index.html" class="img-responsive"><img src="{{asset('public/images/logo.png')}}" class="header-logo" alt="" title=""></a>
                 </div>
                 
                 <!--Right Col-->
@@ -116,7 +116,7 @@
     <!--End Main Header -->
     
     <!--Page Title-->
-    <section class="page-title" style="background-image:url({{asset('images/background/5.jpg')}}">
+    <section class="page-title" style="background-image:url({{asset('images/background/6.jpg')}}">
     	<div class="auto-container">
         	<div class="inner-box">
                 <h1>services</h1>
