@@ -653,7 +653,7 @@
     <!--End Gallery Section-->
     
     <!--Testimonial Section-->
-    <section class="testimonial-section" style="background-image:url(images/background/3.jpg);">
+    <section class="testimonial-section" style="background-image:url({{asset('public/images/background/3.jpg')}}">
     	<div class="auto-container">
         	<div class="single-item-carousel owl-carousel owl-theme">
             
