@@ -255,15 +255,15 @@
         	<div class="auto-container">
             	<div class="row clearfix">
                     <!--Footer Column-->
-                    <div class="footer-column col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="footer-column col-lg-5 col-md-5 col-sm-6 col-xs-12">
                         <div class="footer-widget contact-widget">
-                            <div class="footer-logo"><a href="index.html"><img class="header-logo" src="{{asset('public/images/logo.png')}}" alt=""></a></div>
+                            <div class="footer-logo"><a href="index.html"><img src="images/logo.png" class="header-logo" alt=""></a></div>
                             <div class="widget-content">
                                 <div class="text">Imperial Service is a market leader in providing global luxury concierge, professional network and unique lifestyle management services.</div>
                                 <ul class="contact-info">
                                     <li><div class="icon"><span class="flaticon-house"></span></div>234 Wellington Street, Ottawa, Ontario, Canada, K1A 0G9.</li>
                                     <li><div class="icon"><span class="flaticon-technology-1"></span></div>+(11)123 456 7890, </li>
-                                    <li><div class="icon"><span class="flaticon-envelope-1"></span></div>info@imperialservices.com</li>
+                                    <li><div class="icon"><span class="flaticon-envelope-1"></span></div>Info@imperialserviceclub.com</li>
                                 </ul>
                             </div>
                         </div>
@@ -291,7 +291,7 @@
                         </div>
                     </div>
                     <!--Footer Column-->
-                	<div class="footer-column col-lg-5 col-md-4 col-sm-6 col-xs-12">
+                	<div class="footer-column col-lg-3 col-md-3 col-sm-6 col-xs-12">
                     	<div class="footer-widget partner-widget">
                         	<h2>OUR PARTNERS</h2>
                             <!--footer sponsors slider-->
