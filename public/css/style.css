@@ -6446,3 +6446,11 @@ img{
 .green-text{
 	color: #dc2525 !important;
 }
+
+.footer__wordmark footer__wordmark--white{
+	display: none !important;
+}
+
+.footer__wordmark footer__wordmark--blue{
+	display: none !important;
+}
