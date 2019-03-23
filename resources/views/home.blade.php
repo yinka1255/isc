@@ -35,7 +35,7 @@
                     <div class="outer-container clearfix">
                         <!--Logo Box-->
                         <div class="logo-box">
-                            <div class="logo"><a href="index.html"><img src="images/logo.png" class="header-logo" alt=""></a></div>
+                            <div class="logo"><a href="index.html"><img src="{{asset('public/images/logo.png')}}" class="header-logo" alt=""></a></div>
                         </div>
                         
                         <!--Nav Outer-->
@@ -691,7 +691,7 @@
     
     
     <!--Subscribe Style One-->
-    <section class="subscribe-style-one" style="background-image:url(images/background/patten-1.png);">
+    <section class="subscribe-style-one" style="background-image:url({{asset('public/images/background/patten-1.png')}}">
     	<div class="auto-container">
             <div class="row clearfix">
                 <div class="column col-md-7 col-sm-6 col-xs-12">
@@ -717,7 +717,7 @@
         	<div class="auto-container">
             	<div class="row clearfix">
                     <!--Footer Column-->
-                    <div class="footer-column col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="footer-column col-lg-5 col-md-5 col-sm-6 col-xs-12">
                         <div class="footer-widget contact-widget">
                             <div class="footer-logo"><a href="index.html"><img src="images/logo.png" class="header-logo" alt=""></a></div>
                             <div class="widget-content">
@@ -753,7 +753,7 @@
                         </div>
                     </div>
                     <!--Footer Column-->
-                	<div class="footer-column col-lg-5 col-md-4 col-sm-6 col-xs-12">
+                	<div class="footer-column col-lg-3 col-md-3 col-sm-6 col-xs-12">
                     	<div class="footer-widget partner-widget">
                         	<h2>OUR PARTNERS</h2>
                             <!--footer sponsors slider-->
