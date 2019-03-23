@@ -115,7 +115,7 @@
     </header>
     <!--End Main Header -->
     
-    <section class="page-title" style="background-image:url({{asset('images/background/5.jpg')}}">
+    <section class="page-title" style="background-image:url({{asset('images/background/6.jpg')}}">
     	<div class="auto-container">
         	<div class="inner-box">
                 <h1>about us</h1>
