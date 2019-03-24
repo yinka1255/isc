@@ -6447,10 +6447,10 @@ img{
 	color: #dc2525 !important;
 }
 
-.footer__wordmark footer__wordmark--white{
+.footer__wordmark{
 	display: none !important;
 }
 
-.footer__wordmark footer__wordmark--blue{
+.footer__wordmark{
 	display: none !important;
 }
