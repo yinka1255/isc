@@ -6454,3 +6454,10 @@ img{
 .footer__wordmark{
 	display: none !important;
 }
+
+.footer--white .footer__wordmark--white{
+	display: none !important;
+}
+.footer--white .footer__wordmark--blue{
+	display: none !important;
+}
