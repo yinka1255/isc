@@ -372,7 +372,7 @@
 <script src="https://maps.googleapis.com/maps/api/js?libraries=weather,geometry,visualization,places,drawing&amp;&key=AIzaSyC8QxwIfsIOtdjP2KfUaAoBBZkLfu37deQ&amp;&scale=2" type="text/javascript"></script>
 		<script>
 			$(document).ready(function(){
-							var myLatLng = {lat: 45.419559, lng: -75.696561}; 
+							var myLatLng = {lat: 51.489866, lng: -0.018995}; 
 			
 				var map = new google.maps.Map(document.getElementById('map-canvas'), {
 				zoom: 17,
