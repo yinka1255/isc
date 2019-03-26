@@ -262,7 +262,7 @@
                             <div class="widget-content">
                                 <div class="text">Imperial Service is a market leader in providing global luxury concierge, professional network and unique lifestyle management services.</div>
                                 <ul class="contact-info">
-                                    <li><div class="icon"><span class="flaticon-house"></span></div>56 W Illinois St, Chicago, IL 60654, USA</li>
+                                    <li><div class="icon"><span class="flaticon-house"></span></div> London E14 3AA, UK</li>
                                     <li><div class="icon"><span class="flaticon-technology-1"></span></div>+1 312-640-7600, </li>
                                     <li><div class="icon"><span class="flaticon-envelope-1"></span></div>Info@imperialserviceclub.com</li>
                                 </ul>
@@ -400,7 +400,7 @@
                             email: email,
                             amount: amount+"00",
                             ref: Date.now(),
-                            currency: "USD",
+                            currency: "GBP",
                             metadata: {
                                 custom_fields: [
                                 { display_name: "Name", variable_name: "name", value: name },

@@ -145,7 +145,7 @@
                     	<div class="inner-box">
                         	<div class="icon-box"><span class="flaticon-house-outline"></span></div>
                             <h4>VISIT</h4>
-                            56 W Illinois St, Chicago <br> , IL 60654, USA.
+                            2 Harbinger Rd, Isle of Dogs <br>,  London E14 3AA, UK
                         </div>
                     </div>
                     
@@ -153,7 +153,7 @@
                     	<div class="inner-box">
                         	<div class="icon-box"><span class="flaticon-technology-1"></span></div>
                             <h4>Call</h4>
-                            +1 312-640-7600
+                            +44 312-640-7600
                         </div>
                     </div>
                     
@@ -254,7 +254,7 @@
                             <div class="widget-content">
                                 <div class="text">Imperial Service is a market leader in providing global luxury concierge, professional network and unique lifestyle management services.</div>
                                 <ul class="contact-info">
-                                    <li><div class="icon"><span class="flaticon-house"></span></div>56 W Illinois St, Chicago, IL 60654, USA</li>
+                                    <li><div class="icon"><span class="flaticon-house"></span></div> London E14 3AA, UK</li>
                                     <li><div class="icon"><span class="flaticon-technology-1"></span></div>+1 312-640-7600, </li>
                                     <li><div class="icon"><span class="flaticon-envelope-1"></span></div>Info@imperialserviceclub.com</li>
                                 </ul>
