@@ -145,7 +145,7 @@
                     	<div class="inner-box">
                         	<div class="icon-box"><span class="flaticon-house-outline"></span></div>
                             <h4>VISIT</h4>
-                            2 Harbinger Rd, Isle of Dogs <br>,  London E14 3AA, UK
+                            3637 Trinity Mills, Dallas, TX
                         </div>
                     </div>
                     
@@ -153,7 +153,7 @@
                     	<div class="inner-box">
                         	<div class="icon-box"><span class="flaticon-technology-1"></span></div>
                             <h4>Call</h4>
-                            +44 312-640-7600
+                            +1 210 600 2010
                         </div>
                     </div>
                     
@@ -254,8 +254,8 @@
                             <div class="widget-content">
                                 <div class="text">Imperial Service is a market leader in providing global luxury concierge, professional network and unique lifestyle management services.</div>
                                 <ul class="contact-info">
-                                    <li><div class="icon"><span class="flaticon-house"></span></div> 2 Harbinger Rd, Isle of Dogs London E14 3AA, UK</li>
-                                    <li><div class="icon"><span class="flaticon-technology-1"></span></div>+44 312-640-7600, </li>
+                                    <li><div class="icon"><span class="flaticon-house"></span></div> 3637 Trinity Mills, Dallas, TX </li>
+                                    <li><div class="icon"><span class="flaticon-technology-1"></span></div>+1 210 600 2010, </li>
                                     <li><div class="icon"><span class="flaticon-envelope-1"></span></div>Info@imperialserviceclub.com</li>
                                 </ul>
                             </div>
@@ -372,7 +372,7 @@
 <script src="https://maps.googleapis.com/maps/api/js?libraries=weather,geometry,visualization,places,drawing&amp;&key=AIzaSyC8QxwIfsIOtdjP2KfUaAoBBZkLfu37deQ&amp;&scale=2" type="text/javascript"></script>
 		<script>
 			$(document).ready(function(){
-							var myLatLng = {lat: 51.489866, lng: -0.018995}; 
+							var myLatLng = {lat: 32.981512, lng: -96.927505}; 
 			
 				var map = new google.maps.Map(document.getElementById('map-canvas'), {
 				zoom: 17,
