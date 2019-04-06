@@ -210,11 +210,11 @@
                                 </div>
                             </div>
                             <input type="hidden" name="membership" id="inputMembership" value="Economy" required>
-                            <input type="hidden" name="amount" id="inputAmount" value="20000" required>
+                            <input type="hidden" name="amount" id="inputAmount" value="10000" required>
 
                             <div class="column col-md-12 text-center">
                                 <div class="form-group">
-                                    <button type="button" onclick="payWithPaystack()" class="theme-btn btn-style-one">Apply Now ($20,000)</button>
+                                    <button type="button" onclick="payWithPaystack()" class="theme-btn btn-style-one">Apply Now ($10,000)</button>
                                 </div>
                             </div>
                         </div>

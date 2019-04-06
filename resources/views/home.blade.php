@@ -465,7 +465,7 @@
                             </div>
                             <!--donate info-->
                             <div class="donate-info clearfix">
-                            	<div class="amount goal">PRICE: $20,000</div>
+                            	<div class="amount goal">PRICE: $10,000</div>
                             </div>
                             <a href="{{url('join/economy')}}" class="theme-btn btn-style-three donate-btn">JOIN NOW</a>
                         </div>
@@ -492,7 +492,7 @@
                             </div>
                             <!--donate info-->
                             <div class="donate-info clearfix">
-                            	<div class="amount goal">PRICE: $80,000</div>
+                            	<div class="amount goal">PRICE: $40,000</div>
                             </div>
                             <a href="{{url('join/executive')}}" class="theme-btn btn-style-three donate-btn">JOIN NOW</a>
                         </div>
@@ -519,7 +519,7 @@
                             </div>
                             <!--donate info-->
                             <div class="donate-info clearfix">
-                            	<div class="amount goal">PRICE: $150,000</div>
+                            	<div class="amount goal">PRICE: $80,000</div>
                             </div>
                             <a href="{{url('join/elite')}}" class="theme-btn btn-style-three donate-btn">JOIN NOW</a>
                         </div>
